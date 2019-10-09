@@ -13,19 +13,15 @@ understanding of it, and our expression of it. Ultimately, we would like to  ena
 
 ### Personal Competence
 
-Personal Competence describes a person's self-awareness and self-management
-skills. It is the ability to stay aware of one's emotions, and how one's behavior is influenced by them. Personal competency focuses more on the self, rather than how the self interacts with others.
+Personal Competence describes a person's self-awareness and self-management skills. It is the ability to stay aware of one's emotions, and how one's behavior is influenced by them. Personal competency focuses more on the self, rather than how the self interacts with others.
 
-**Self Awareness** - the ability to accurately perceive one's own emotions, and
-maintaining awareness of them as they happen.
+**Self Awareness** - the ability to accurately perceive one's own emotions, and maintaining awareness of them as they happen.
 
-**Self Management** - as it relates to EI, is the ability to use awareness of
-one's emotions to stay flexible and positively direct one's behavior.
+**Self Management** - as it relates to EI, is the ability to use awareness of one's emotions to stay flexible and positively direct one's behavior.
 
 ### Social Competence
 
-Social Competence describes a person's social awareness and relationship
-management skills. It is the ability to understand other people’s moods, behavior, and motives in order to improve the quality of one's relationships.
+Social Competence describes a person's social awareness and relationship management skills. It is the ability to understand other people’s moods, behavior, and motives in order to improve the quality of one's relationships.
 
 **Social Awareness** - as it relates to EI, is one's ability to accurately detect someone else's emotional state. Accurate detection requires a state of empathy and compassion, and does not involve assumptions or judgements.
 
