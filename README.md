@@ -33,10 +33,13 @@ management skills. It is the ability to understand other people’s moods, behav
 
 ### EQ and IQ
 
-IQ, or _Intelligence Quotient_, was once believed to be an indicator of performance and potential success in one's role. Over time, it has been demonstrated that job performance and success are much more closely linked to
-EQ. IQ is also regarded as a fixed trait, while EQ is a set of flexibile skills that can be grown over time.
+IQ, or _Intelligence Quotient_, was once believed to be an indicator of performance and potential success in one's role. Over time, it has been demonstrated that job performance and success are much more closely linked to EQ. IQ is also regarded as a fixed trait, while EQ is a set of flexibile skills that can be grown over time.
 
 EQ has a proven value for businesses. The fact that it can be grown and enhanced over time implies that businesses are burdened with opportunity cost when not developing a culture that is EQ focused.
+
+### Leadership
+
+Skilled leaders bring out the best in people. Emotional Intelligence is required to accurately understand the matrix of emotions, personality, and events that unfold in the workplace. Leaders who embrace and develop the skills for Emotional Intelligence have the ability to steer this complexity towards a positive and successful outcome.
 
 ## Why This Is Important to Us
 
