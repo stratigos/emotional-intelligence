@@ -43,4 +43,8 @@ Skilled leaders bring out the best in people. Emotional Intelligence is required
 
 ## Why This Is Important to Us
 
+At thoughtbot, we value human-centric work, and believe that the way we work can always be improved. We want to share what has worked well for us to inspire positive change in our world. We believe that Emotional Intelligence, along with other Diversity and Inclusion efforts, are key to inspiring a world with human-centered values.
+
+
+
 ## How Might We
