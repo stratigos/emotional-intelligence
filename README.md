@@ -67,3 +67,29 @@ Consulting skills can also fall into that somewhat-intangible and hard-to-define
 The benefits of Emotional Intelligence regarding a business' operations and profitability are published and widely discussed. We believe this is not the primary motivator for developing and iterating on a culture of Emotional Intelligence. The "bottom line" for our endeavor is the establishment of a place folks are eager to come and contribute to each day. We are totally stoked that this also increases profits, but the win for us is the increase in the quality of our lives.
 
 ## How Might We
+
+thoughtbot is continuously establishing new strategies and techniques to develop our Emotional Intelligence values. We use these to develop our personal EQ, and are always working to uncover more.
+
+### Task Forces
+
+Establishing Diversity and Inclusion Task Forces has allowed individual thoughtbotters to divide the work into smaller, more actionable areas of focus. Many people find this process very rewarding, and that it provides deeper meaning to the work we do.
+
+### NVC
+
+> Our survival as a species depends on our ability to recognize that our well-being and the well-being of others are in fact one in the same.
+>
+>  - Marshall B. Rosenberg, PhD, author of Nonviolent Communication
+
+Non Violent Communication, or NVC, provides strategy and tactics for maintaining productive communication and connection under stress. It gifts us with a judgement free solution for reharmonizing with our values, and increases the quality of life in the workplace. Engaging with NVC helps develop Emotional Intelligence.
+
+### Meditation
+
+This act of self care clears up internal resources that we need to handle difficult conversations. Meditation brings us closer to our truest selves, gives a deeper insight into our emotions, and allows us to be more present when our emotions may affect our behaviors. Meditation also helps us recover from emotionally challenging situations, and more reliably redirect our behavior towards a successful outcome.
+
+### Hiring
+
+We aim to integrate our values from the start of our hiring pipeline.
+
+
+
+
