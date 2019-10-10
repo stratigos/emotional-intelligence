@@ -82,6 +82,8 @@ Establishing Diversity and Inclusion Task Forces has allowed individual thoughtb
 
 Non Violent Communication, or NVC, provides strategy and tactics for maintaining productive communication and connection under stress. It gifts us with a judgement free solution for reharmonizing with our values, and increases the quality of life in the workplace. Engaging with NVC helps develop Emotional Intelligence.
 
+For more information, check out [the book](https://nonviolentcommunication.com/), or visit the [Center for Non Violent Communication](https://www.cnvc.org/).
+
 ### Meditation
 
 This act of self care clears up internal resources that we need to handle difficult conversations. Meditation brings us closer to our truest selves, gives a deeper insight into our emotions, and allows us to be more present when our emotions may affect our behaviors. Meditation also helps us recover from emotionally challenging situations, and more reliably redirect our behavior towards a successful outcome.
