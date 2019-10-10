@@ -88,6 +88,18 @@ For more information, check out [the book](https://nonviolentcommunication.com/)
 
 This act of self care can clear up internal resources that we need to handle difficult conversations. Meditation can bring us closer to our truest selves, give a deeper insight into our emotions, and allow us to be more present when our emotions may affect our behaviors. Meditation can also help us recover from emotionally challenging situations, and more reliably redirect our behavior towards a successful outcome.
 
+### Science
+
+EQ consists of a set of skills that can be continuously improved. There are physical / neurological changes that take place within the human brain as one develops the underlying personal and social competencies.
+
+Emotional Intelligence is part of what makes us human, as it requires rational thinking and future planning, and anticipation of future outcomes. Information passes through our limbic system, where emotions are processed, before it reaches the front of the brain, where our rational thoughts generate a lot of activity. Developing Emotional Intelligence increases communication between the rational and emotional centers of the brain.
+
+Applying strategies to increase one's Emotional Intelligence allows the neuroplastic properties of the brain to speed up the efficiency of improving the skills in the future. Once the brain has been trained repeatedly to use Emotional Intelligence strategies, the behaviors become habits and reflexes.
+
+### Compassion Challenges
+
+One way a person can further develop Emotional Intelligence is by seeking out ways of helping others that are outside of one's comfort zone. By keeping an eye out for situations where one might feel hesitant to help, a person can create daily opportunities to develop the redirection of uncomfortable emotions to a positive outcome. Helping others tends to increase one's own sense of empathy, further bolstering available resources for future difficult conversations.
+
 ### Hiring
 
 We aim to integrate our values from the start of our hiring pipeline.
