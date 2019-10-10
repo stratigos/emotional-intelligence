@@ -94,7 +94,7 @@ We aim to integrate our values from the start of our hiring pipeline.
 
 ### Invitation
 
-Maintaining a posture of invitation increases the liklihood of adoption of our values. We avoid attributing wrongness, judgement, or faulting when sharing our values. We believe a culture of high Emotional Intelligence has no need to refute any competition.
+Maintaining a posture of invitation increases the liklihood of adoption of our values. We belive that the attribution of wrongness, judgement, or fault when sharing our values decreases the liklihood that our intentions are understood. 
 
 
 
