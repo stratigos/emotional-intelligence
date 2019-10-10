@@ -96,5 +96,5 @@ We aim to integrate our values from the start of our hiring pipeline.
 
 Maintaining a posture of invitation increases the liklihood of adoption of our values. We belive that the attribution of wrongness, judgement, or fault when sharing our values decreases the liklihood that our intentions are understood. 
 
-
+We invite you to fork this repository, and contribute.
 
