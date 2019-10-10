@@ -11,6 +11,8 @@ as _Emotional Quotient_, or _EQ_ for short, is difficult to nail down with a com
 At thoughtbot, we have endeavored to define EI in a way that espouses our culture of inclusivity. We seek to continuously improve this definition, our
 understanding of it, and our expression of it. Ultimately, we would like to  enact and inspire positive change in the world through our inclusive culture. This journey is not ours alone, and we invite you to contribute.
 
+Emotional Intelligence can be described as a composition of the following competencies and skills:
+
 ### Personal Competence
 
 Personal Competence describes a person's self-awareness and self-management skills. It is the ability to stay aware of one's emotions, and how one's behavior is influenced by them. Personal competency focuses more on the self, rather than how the self interacts with others.
