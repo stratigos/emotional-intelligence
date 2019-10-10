@@ -86,7 +86,7 @@ For more information, check out [the book](https://nonviolentcommunication.com/)
 
 ### Meditation
 
-This act of self care clears up internal resources that we need to handle difficult conversations. Meditation brings us closer to our truest selves, gives a deeper insight into our emotions, and allows us to be more present when our emotions may affect our behaviors. Meditation also helps us recover from emotionally challenging situations, and more reliably redirect our behavior towards a successful outcome.
+This act of self care can clear up internal resources that we need to handle difficult conversations. Meditation can bring us closer to our truest selves, give a deeper insight into our emotions, and allow us to be more present when our emotions may affect our behaviors. Meditation can also help us recover from emotionally challenging situations, and more reliably redirect our behavior towards a successful outcome.
 
 ### Hiring
 
