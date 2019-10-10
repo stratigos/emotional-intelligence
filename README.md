@@ -23,15 +23,15 @@ Personal Competence describes a person's self-awareness and self-management skil
 
 ### Social Competence
 
-Social Competence describes a person's social awareness and relationship management skills. It is the ability to understand other people’s moods, behavior, and motives in order to improve the quality of one's relationships.
+Social Competence describes a person's social awareness and relationship management skills. It is the ability to understand other people's moods, behavior, and motives in order to improve the quality of one's relationships.
 
-**Social Awareness** - as it relates to EI, is one's ability to accurately detect someone else's emotional state. Accurate detection requires a state of empathy and compassion, and does not involve assumptions or judgements.
+**Social Awareness** - as it relates to EI, is one's ability to accurately detect someone else's emotional state. Accurate detection requires a state of empathy and compassion, and does not involve assumptions or judgments.
 
-**Relationship Management** - within the scope of EI, is the ability to use awareness of emotional states to succssfully and positively manage interactions.
+**Relationship Management** - within the scope of EI, is the ability to use awareness of emotional states to successfully and positively manage interactions.
 
 ### EQ and IQ
 
-IQ, or _Intelligence Quotient_, was once believed to be an indicator of performance and potential success in one's role. Over time, it has been demonstrated that job performance and success are much more closely linked to EQ. IQ is also regarded as a fixed trait, while EQ is a set of flexibile skills that can be grown over time.
+IQ, or _Intelligence Quotient_, was once believed to be an indicator of performance and potential success in one's role. Over time, it has been demonstrated that job performance and success are much more closely linked to EQ. IQ is also regarded as a fixed trait, while EQ is a set of flexible skills that can be grown over time.
 
 EQ has a proven value for businesses. The fact that it can be grown and enhanced over time implies that businesses are burdened with opportunity cost when not developing a culture that is EQ focused.
 
@@ -64,7 +64,7 @@ Consulting skills can also fall into that somewhat-intangible and hard-to-define
 * Self Evaluation
 * Sharing Values
 
-The following are some scenerios we have identified in which Emotional Intelligence is particularly crucial:
+The following are some scenarios we have identified in which Emotional Intelligence is particularly crucial:
 
 * Giving and Receiving Feedback
 * Working Against Tight Deadlines
@@ -91,7 +91,7 @@ Establishing Diversity and Inclusion Task Forces has allowed individual thoughtb
 >
 >  -- Marshall B. Rosenberg, PhD, author of Nonviolent Communication
 
-Non Violent Communication, or NVC, provides strategy and tactics for maintaining productive communication and connection under stress. It gifts us with a judgement free solution for reharmonizing with our values, and increases the quality of life in the workplace. Engaging with NVC helps develop Emotional Intelligence.
+Non Violent Communication, or NVC, provides strategy and tactics for maintaining productive communication and connection under stress. It gifts us with a judgment free solution for reharmonizing with our values, and increases the quality of life in the workplace. Engaging with NVC helps develop Emotional Intelligence.
 
 For more information, check out [the book](https://nonviolentcommunication.com/), or visit the [Center for Non Violent Communication](https://www.cnvc.org/).
 
@@ -117,17 +117,16 @@ We aim to integrate our values from the start of our hiring pipeline.
 
 ### Interviews
 
-Occassional interviews about individual people's thoughts and feelings on our EI/EQ efforts can provide new opportunities for improvement.
+Occasional interviews about individual people's thoughts and feelings on our EI/EQ efforts can provide new opportunities for improvement.
 
 ### Diversity and Inclusion Training
 
-We reccomend having a workplace culture where D&I training occurrs at regular intervals, for all employees.
+We recommend having a workplace culture where D&I training occurs at regular intervals, for all employees.
 
 Companies can connect with Emotional Intelligence Leadership Consultants to explore programs and training options for employees. The training process can be improved over time when combined with employee interviews.
 
 ### Invitation
 
-Maintaining a posture of invitation increases the liklihood of adoption of our values. We belive that the attribution of wrongness, judgement, or fault when sharing our values decreases the liklihood that our intentions are understood. 
+Maintaining a posture of invitation increases the likelihood of adoption of our values. We believe that the attribution of wrongness, judgment, or fault when sharing our values decreases the likelihood that our intentions are understood. 
 
 We invite you to fork this repository, and contribute.
-
