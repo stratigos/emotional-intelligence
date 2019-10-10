@@ -111,6 +111,10 @@ Applying strategies to increase one's Emotional Intelligence allows the neuropla
 
 One way a person can further develop Emotional Intelligence is by seeking out ways of helping others that are outside of one's comfort zone. By keeping an eye out for situations where one might feel hesitant to help, a person can create daily opportunities to develop the redirection of uncomfortable emotions to a positive outcome. Helping others tends to increase one's own sense of empathy, further bolstering available resources for future difficult conversations.
 
+### Practice Identifying Emotions
+
+Naming and labeling one's emotional states can help build higher EQ. The practice of naming and labeling the more obvious positive emotions one feels is one place to start. From there, one can try and identify complex nuances of the emotions one is already familiar with. Identifying and naming negative emotions may feel more challenging, but it helps one become more familair with them, and allows one to begin planning a positive redirection more quickly.
+
 ### Hiring
 
 We aim to integrate our values from the start of our hiring pipeline.
