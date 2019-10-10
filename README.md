@@ -100,6 +100,18 @@ Applying strategies to increase one's Emotional Intelligence allows the neuropla
 
 One way a person can further develop Emotional Intelligence is by seeking out ways of helping others that are outside of one's comfort zone. By keeping an eye out for situations where one might feel hesitant to help, a person can create daily opportunities to develop the redirection of uncomfortable emotions to a positive outcome. Helping others tends to increase one's own sense of empathy, further bolstering available resources for future difficult conversations.
 
+### Areas of Focus
+
+The following are some scenerios we have identified in which Emotional Intelligence is particularly crucial:
+
+* Giving and Receiving Feedback
+* Working Against Tight Deadlines
+* Engaging with Challenging Relationships
+* Resource Scarcity
+* Experiencing Change
+* Experiencing Setbacks or Failure
+
+
 ### Hiring
 
 We aim to integrate our values from the start of our hiring pipeline.
