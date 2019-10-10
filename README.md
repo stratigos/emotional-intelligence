@@ -72,7 +72,7 @@ thoughtbot is continuously establishing new strategies and techniques to develop
 
 ### Task Forces
 
-Establishing Diversity and Inclusion Task Forces has allowed individual thoughtbotters to divide the work into smaller, more actionable areas of focus. Many people find this process very rewarding, and that it provides deeper meaning to the work we do.
+Establishing Diversity and Inclusion Task Forces has allowed individual thoughtbotters to divide the work into smaller, more actionable areas of focus. Many people find this process very rewarding, and that it provides deeper meaning to the work we do. Diversity in collaboration yields new and synthesized strategies.
 
 ### NVC
 
@@ -91,6 +91,10 @@ This act of self care can clear up internal resources that we need to handle dif
 ### Hiring
 
 We aim to integrate our values from the start of our hiring pipeline.
+
+### Interviews
+
+Occassional interviews about individual people's thoughts and feelings on our EI/EQ efforts can provide new opportunities for improvement.
 
 ### Invitation
 
