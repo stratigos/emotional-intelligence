@@ -115,6 +115,8 @@ One way a person can further develop Emotional Intelligence is by seeking out wa
 
 Naming and labeling one's emotional states can help build higher EQ. The practice of naming and labeling the more obvious positive emotions one feels is one place to start. From there, one can try and identify complex nuances of the emotions one is already familiar with. Identifying and naming negative emotions may feel more challenging, but it helps one become more familair with them, and allows one to begin planning a positive redirection more quickly.
 
+Counting and tracking the number of times one experiences each emotion is another way to exercise the EQ muscles. To enhance this activity, one can reflect on which had the strongest affects on our behaviors that day. Focusing on pure observation, without judging right or wrongness, can produce great EI skill benefits.
+
 ### Hiring
 
 We aim to integrate our values from the start of our hiring pipeline.
