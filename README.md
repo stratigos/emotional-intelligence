@@ -119,7 +119,9 @@ Occassional interviews about individual people's thoughts and feelings on our EI
 
 ### Diversity and Inclusion Training
 
-We reccomend having a workplace culture where D&I training occurrs annually, for all employees.
+We reccomend having a workplace culture where D&I training occurrs at regular intervals, for all employees.
+
+Companies can connect with Emotional Intelligence Leadership Consultants to explore programs and training options for employees. The training process can be improved over time when combined with employee interviews.
 
 ### Invitation
 
