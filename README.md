@@ -78,7 +78,7 @@ Establishing Diversity and Inclusion Task Forces has allowed individual thoughtb
 
 > Our survival as a species depends on our ability to recognize that our well-being and the well-being of others are in fact one in the same.
 >
->  - Marshall B. Rosenberg, PhD, author of Nonviolent Communication
+>  -- Marshall B. Rosenberg, PhD, author of Nonviolent Communication
 
 Non Violent Communication, or NVC, provides strategy and tactics for maintaining productive communication and connection under stress. It gifts us with a judgement free solution for reharmonizing with our values, and increases the quality of life in the workplace. Engaging with NVC helps develop Emotional Intelligence.
 
@@ -90,6 +90,9 @@ This act of self care clears up internal resources that we need to handle diffic
 
 We aim to integrate our values from the start of our hiring pipeline.
 
+### Invitation
+
+Maintaining a posture of invitation increases the liklihood of adoption of our values. We avoid attributing wrongness, judgement, or faulting when sharing our values. We believe a culture of high Emotional Intelligence has no need to refute any competition.
 
 
 
