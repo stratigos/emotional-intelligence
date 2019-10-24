@@ -57,3 +57,7 @@ Companies can connect with Emotional Intelligence Leadership Consultants to expl
 Maintaining a posture of invitation increases the likelihood of adoption of our values. We believe that the attribution of wrongness, judgment, or fault when sharing our values decreases the likelihood that our intentions are understood.
 
 We invite you to fork this repository, and contribute.
+
+----
+
+[Return](README.md)

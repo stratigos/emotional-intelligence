@@ -35,3 +35,7 @@ The following are some scenarios we have identified in which Emotional Intellige
 ### The Bottom Line
 
 The benefits of Emotional Intelligence regarding a business' operations and profitability are published and widely discussed. We believe this is not the primary motivator for developing and iterating on a culture of Emotional Intelligence. The "bottom line" for our endeavor is the establishment of a place folks are eager to come and contribute to each day. We are totally stoked that this also increases profits, but the win for us is the increase in the quality of our lives.
+
+----
+
+[Return](README.md)
